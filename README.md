@@ -1,1 +1,2 @@
-Hello! I'm Sarim Zubair. a machine learning and statistics enthusistant and a recent graduate of MS Technology (Aviation Management and Human Factors) from Arizona State University
+### Machine Learning Projects
+This repo is home to several Machine Learning Projects using different python libraries such as Scikit-learn, Matplotlib, Seaborn, Pandas, and NumPy that I completed during my Data Science Certification Program at Tech Talent and Strategy. 
